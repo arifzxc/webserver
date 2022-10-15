@@ -6,3 +6,4 @@ php-common libapache2-mod-php php-fpm \
 php-bz2 php-xml imagemagick php-zip php-mbstring -y 
 
 /etc/init.d/apache2 restart
+
